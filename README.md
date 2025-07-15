@@ -1,5 +1,9 @@
 # golings
 
+> APRENDENDO A LINGUAGEM GO ATRAVÉS DE EXERCÍCIOS
+
+> ESSE REPOSITÓRIO É UM FORK DO [GOLINGS](https://github.com/mauricioabreu/golings) PARA FINS DE ESTUDO DA LINGUAGEM GO
+
 [![build and test](https://github.com/mauricioabreu/golings/actions/workflows/test.yml/badge.svg)](https://github.com/mauricioabreu/golings/actions/workflows/test.yml)
 
 ![gopher](misc/gopher-dance.gif)
